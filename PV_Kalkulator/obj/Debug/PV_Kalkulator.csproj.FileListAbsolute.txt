@@ -1,0 +1,7 @@
+C:\Users\XTS\Documents\SharpDevelop Projects\PV_Kalkulator\PV_Kalkulator\obj\Debug\PV_Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\XTS\Documents\SharpDevelop Projects\PV_Kalkulator\PV_Kalkulator\obj\Debug\PV_Kalkulator.MainForm.resources
+C:\Users\XTS\Documents\SharpDevelop Projects\PV_Kalkulator\PV_Kalkulator\obj\Debug\PV_Kalkulator.csproj.GenerateResource.Cache
+C:\Users\XTS\Documents\SharpDevelop Projects\PV_Kalkulator\PV_Kalkulator\bin\Debug\PV_Kalkulator.exe
+C:\Users\XTS\Documents\SharpDevelop Projects\PV_Kalkulator\PV_Kalkulator\bin\Debug\PV_Kalkulator.pdb
+C:\Users\XTS\Documents\SharpDevelop Projects\PV_Kalkulator\PV_Kalkulator\obj\Debug\PV_Kalkulator.exe
+C:\Users\XTS\Documents\SharpDevelop Projects\PV_Kalkulator\PV_Kalkulator\obj\Debug\PV_Kalkulator.pdb
